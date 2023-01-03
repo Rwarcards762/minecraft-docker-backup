@@ -1,3 +1,4 @@
+#!/bin/sh
 #####
 # Script for running backups from a Minecraft server running in a Docker container
 #     Copies the entire server folder out to a desired location on a disk path via rsync, for DR in case of a disk failure
