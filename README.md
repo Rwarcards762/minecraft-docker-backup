@@ -2,6 +2,8 @@
 
 Bash script for backing up a running binhex-minecraftserver Docker container. Made as an alternative to using CA Backup plugin.
 
+Intended to be set in a `root` owned directory, run as `root` as a `cron` job on a daily schedule. Comments in the script itself give a bit more insight.
+
 Takes no arguments, but has variables in the script to be set as needed:
 
 ```bash
