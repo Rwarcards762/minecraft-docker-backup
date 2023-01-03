@@ -1,6 +1,6 @@
 # minecraft-docker-backup
 
-Bash script for backing up a running binhex-minecraftserver Docker container. Made as an alternative to using CA Backup plugin.
+Bash script for backing up a running binhex-minecraftserver or similar Docker container. Made as an alternative to using CA Backup plugin.
 
 Intended to be set in a `root` owned directory, run as `root` as a `cron` job on a daily schedule. Comments in the script itself give a bit more insight.
 
